@@ -1,9 +1,8 @@
 .images-block {
-    background-color: bisque;
     display: flex;
     justify-content: space-between;
 }
 .images-block-name {
-    color: brown;
+    color: green;
     font-size: 28px;
 }
