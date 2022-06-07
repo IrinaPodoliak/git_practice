@@ -1,0 +1,9 @@
+.images-block {
+    background-color: bisque;
+    display: flex;
+    justify-content: space-between;
+}
+.images-block-name {
+    color: brown;
+    font-size: 28px;
+}
